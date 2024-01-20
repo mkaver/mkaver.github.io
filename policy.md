@@ -1,7 +1,6 @@
-layout: page
-title: "Политика конфиденциальности - М-ка"
-permalink: /policy
-<!DOCTYPE html>
+<!layout: page>
+<!title: "Политика конфиденциальности - М-ка">
+<!permalink: /policy>
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
